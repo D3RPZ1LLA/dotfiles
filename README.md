@@ -1,1 +1,3 @@
+To Install: Copy this repo to your home directory & source the `.source` file
+
 Will update this README to contain --help information in the future...
