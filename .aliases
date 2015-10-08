@@ -1,1 +1,2 @@
 alias subl='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
+alias update_master='git add -A; git commit -m "derp"; git checkout master; git pull origin master; git branch --merged | grep -v "\*" | grep -v master | grep -v dev | xargs -n 1 git branch -d'
