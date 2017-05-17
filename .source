@@ -1,2 +1,2 @@
 source ~/.dotfiles/.aliases
-source /Users/d3rpz1llla/.rvm/scripts/rvm
+source ~/.dotfiles/git-completion.bash
